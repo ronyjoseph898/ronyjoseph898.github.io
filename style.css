@@ -1,0 +1,12 @@
+.navbar-collapse {
+    font-size: 12pt;
+}
+.navbar-default .navbar-brand {
+    background-color: #009179; 
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30pt;
+    height: 80px;
+    padding: 30px;
+}
